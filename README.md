@@ -11,7 +11,6 @@ Welcome to the **Simon Says Game**! This project is a recreation of the classic 
 - [Features](#features)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -57,21 +56,6 @@ To run the Simon Says Game on your local machine, follow these steps:
 4. **Progress**: With each correct repetition, the sequence will get longer.
 5. **Game Over**: The game ends when you fail to reproduce the sequence correctly. Try again to beat your high score!
 
-## Contributing
-
-We welcome contributions to improve the Simon Says Game! Here are some ways you can help:
-
-- **Bug Reports**: If you find a bug, please report it by opening an issue.
-- **Feature Requests**: Suggest new features or enhancements.
-- **Code Contributions**: Submit pull requests with improvements or fixes.
-
-To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 ## License
 
