@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    font-size: 30px;
+}
+.button-1{
+    background-color: #d95980;
+}
+.button-2{
+    background-color: #63aac0;
+}
+.button-3{
+    background-color: #f99b45;
+}
+.button-4{
+    background-color: #819ff9;
+}
+.flash{
+    background-color: #ffffff;
+}
+.userflash{
+    background-color: black;
+}
