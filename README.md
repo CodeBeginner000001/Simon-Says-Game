@@ -1,8 +1,6 @@
-
-![Screenshot 2024-06-05 at 12 24 40 AM](https://github.com/CodeBeginner000001/Simon-Says-Game/assets/92913917/c73decb6-a1f4-4e0e-ae05-6b87448ec296)
-
 # Simon Says Game
-
+![Screenshot 2024-06-05 at 12 24 40 AM](https://github.com/CodeBeginner000001/Simon-Says-Game/assets/92913917/c73decb6-a1f4-4e0e-ae05-6b87448ec296)
+<br>
 Welcome to the **Simon Says Game**! This project is a recreation of the classic electronic memory game "Simon Says," where players must repeat increasingly complex sequences of lights and sounds.
 
 ## Table of Contents
