@@ -14,7 +14,7 @@ Welcome to the **Simon Says Game**! This project is a recreation of the classic 
 
 ## Introduction
 
-The Simon Says Game challenges players to remember and repeat sequences of colors and sounds. This version of the game is implemented using [your programming language/technology stack], providing a fun and interactive way to test your memory skills.
+The Simon Says Game challenges players to remember and repeat sequences of colors and sounds. This version of the game is implemented using HTML,CSS & Javascript, providing a fun and interactive way to test your memory skills.
 
 ## Features
 
